@@ -30,4 +30,19 @@ kegiatan sehari hari. Kami membuat beberapa fitur-fitur yang nantinya bisa memud
 para pengguna mengelola pekerjaan atau kegiatannya seperti login-logout, perhitungan
 satuan, perhitungan bangun datar dan juga riwayat.
 
+Fitur : 
+
+a) login-log out
+dimana pengguna harus melalui login dan log out agar bisa menggunakan aplikasi
+dengan sempurna
+b) perhitungan satuan
+pada fitur ini pengguna dapat melakukan konversi dari berbagai macam satuan seperti
+satuan Panjang, satuan waktu dll.
+c) perhitungan bangun datar
+fitur perhitungan bangun datar dapat digunakan untuk menghitung luas berbagai
+bangun datar seperti persegi Panjang, lingkaran, jajar genjang dll
+d) riwayat
+didalam fitur Riwayat menyediakan kejadian konversi antara sistem dan pengguna
+aplikasi.
+
 ![](FortunateBrightFrog-size_restricted.gif)
