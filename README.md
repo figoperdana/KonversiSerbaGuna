@@ -7,7 +7,7 @@ Anggota Kelompok (Beserta NiM) :
 1. Figo Perdana Putra (192410102022) = https://github.com/figoperdana
 2. Akhmad Ardiansyah (192410101142) = https://github.com/AkhmadArdiasnyah
 
-Link Website : https://figoperdana.github.io
+Link : https://github.com/figoperdana/KonversiSerbaGuna/
 
 
   Tanpa disadari dalam kehidupan sehari-hari kita tidak bisa terlepas dari yang
@@ -30,3 +30,4 @@ kegiatan sehari hari. Kami membuat beberapa fitur-fitur yang nantinya bisa memud
 para pengguna mengelola pekerjaan atau kegiatannya seperti login-logout, perhitungan
 satuan, perhitungan bangun datar dan juga riwayat.
 
+![](FortunateBrightFrog-size_restricted.gif)
